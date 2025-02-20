@@ -52,7 +52,7 @@
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstaps" />
       <br>Bootstrap
     </td>
   
