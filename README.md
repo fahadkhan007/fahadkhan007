@@ -51,11 +51,4 @@
 
 <br>
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadkhan007&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkhan007&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
